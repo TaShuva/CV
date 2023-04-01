@@ -1,6 +1,6 @@
 # Hello, world!
 
-![image of snowman](https://github.com/TaShuva/CV/blob/main/snowman.jpg?raw=true)
+![image of snowman]()
 
 ### **Я Снеговик! Сын Зимы и Мороза.**
 
